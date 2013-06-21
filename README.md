@@ -17,4 +17,4 @@ To see the source for the BigCommerce API, view this project:
 
 https://github.com/jmawebtech/bigcommercerestapi
 
-For questions, please contact us at jmawebtechnologies.com/contact
+For questions, please contact us at http://www.jmawebtechnologies.com/contact
